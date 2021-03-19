@@ -1,0 +1,90 @@
+image001_resized,660, 297
+
+image002_resized,148, 334
+
+image003_resized,601, 282
+
+image004_resized,160, 336
+
+image005_resized,178, 253
+
+image006_resized,193, 294
+
+image007_resized,551, 291
+
+image008_resized,182, 323
+
+image009_resized,147, 316
+
+image010_resized,575, 308
+
+image011_resized,160, 274
+
+image012_resized,213, 319
+
+image013_resized,199, 291
+
+image014_resized,625, 333
+
+image015_resized,188, 242
+
+image016_resized,640, 312
+
+image017_resized,561, 260
+
+image018_resized,257, 246
+
+image019_resized,614, 313
+
+image020_resized,672, 310
+
+image021_resized,117, 304
+
+image022_resized,681, 229
+
+image023_resized,634, 335
+
+image024_resized,115, 371
+
+image025_resized,651, 344
+
+image026_resized,636, 272
+
+image027_resized,308, 199
+
+image029_resized,592, 276
+
+image030_resized,653, 337
+
+image031_resized,524, 306
+
+image033_resized,614, 269
+
+image034_resized,197, 299
+
+image035_resized,616, 321
+
+image038_resized,101, 292
+
+image040_resized,222, 257
+
+image052_resized,617, 282
+
+image053_resized,173, 257
+
+image054_resized,194, 297
+
+image056_resized,152, 250
+
+image066_resized,578, 282
+
+image067_resized,185, 239
+
+image071_resized,162, 258
+
+image084_resized,617, 250
+
+image085_resized,166, 256
+
+image086_resized,596, 316
+
